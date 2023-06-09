@@ -85,12 +85,11 @@ endmodule
 
 ## Half Adder:
 
-![3aop](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/e79aac94-f76b-4bb6-a537-9af5544ece50)
+![image](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/b809a389-ba85-4d36-8a81-abe6aab478f2)
 
 ## Full Adder:
 
-![exp3op](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/6e058d62-7f24-4b11-9e5b-b2c66348ba3c)
-
+![image](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/a4ffe030-b5e3-4479-9238-721e3626e53f)
 
 ## Result:
 Thus the half adder and full adder circuits are designed and implemented and the truth tables are verified.
