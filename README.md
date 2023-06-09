@@ -46,7 +46,10 @@ Carry = AB + ACin+BCin
 
 ## RTL Schematic:
 
+![3artl](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/197ded0d-4f0d-4fc1-b907-a812a68a4892)
 
+
+![3aop](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/e79aac94-f76b-4bb6-a537-9af5544ece50)
 
 
 ## Timing Diagram:
