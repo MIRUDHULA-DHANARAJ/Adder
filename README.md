@@ -42,17 +42,54 @@ Carry = AB + ACin+BCin
 
 
 ## Program:
+```
+Developed By: Mirudhula D
+Register No.: 212221230060
+```
+## Half Adder:
+```
+module exp3a(a,b,sum,carry);
+input a,b;
+output sum,carry;
+xor(sum,a,b);
+and(carry,a,b);
+endmodule
+```
+## Full Adder:
 
+```
+module exp3b(a,b,c,sum,carry);
+input a,b,c;
+output sum,carry;
+wire x,p,q,r;
+xor(sum,x);
+and(p,a,b);
+and(q,b,c);
+and(r,a,c);
+or(carry,p,q,r);
+endmodule
+```
 
 ## RTL Schematic:
 
+## Half Adder:
+
 ![3artl](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/197ded0d-4f0d-4fc1-b907-a812a68a4892)
 
+## Full Adder:
 
-![3aop](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/e79aac94-f76b-4bb6-a537-9af5544ece50)
+![exp3brtl](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/2b80c99d-9f3b-4101-8e75-8831ed41ba5d)
 
 
 ## Timing Diagram:
+
+## Half Adder:
+
+![3aop](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/e79aac94-f76b-4bb6-a537-9af5544ece50)
+
+## Full Adder:
+
+![exp3op](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/6e058d62-7f24-4b11-9e5b-b2c66348ba3c)
 
 
 ## Result:
