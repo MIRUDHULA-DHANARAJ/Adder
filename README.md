@@ -74,22 +74,22 @@ endmodule
 
 ## Half Adder:
 
-![3artl](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/197ded0d-4f0d-4fc1-b907-a812a68a4892)
+![image](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/88f16f19-bd15-42f3-b297-93fa0074ce13)
 
 ## Full Adder:
 
-![exp3brtl](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/2b80c99d-9f3b-4101-8e75-8831ed41ba5d)
+![image](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/92d9213d-7547-45c9-9539-11991732e820)
 
 
 ## Timing Diagram:
 
 ## Half Adder:
 
-![image](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/b809a389-ba85-4d36-8a81-abe6aab478f2)
+![image](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/3d5aa0d0-932c-4ad8-839e-37f366aba940)
 
 ## Full Adder:
 
-![image](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/a4ffe030-b5e3-4479-9238-721e3626e53f)
+![image](https://github.com/MIRUDHULA-DHANARAJ/Adder/assets/94828147/46e00526-233e-4135-a32a-3c9520f98ebc)
 
 ## Result:
 Thus the half adder and full adder circuits are designed and implemented and the truth tables are verified.
